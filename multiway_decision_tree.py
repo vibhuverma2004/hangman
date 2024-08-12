@@ -1,12 +1,3 @@
-'''
-	Package: cs771
-	Module: multiway_decision_tree
-	Author: puru
-	Institution: CSE, IIT Kanpur
-	License: MIT License
-	
-	Give skeletal support for implementing a multiway decision tree
-'''
 
 import numpy as np
 import warnings
